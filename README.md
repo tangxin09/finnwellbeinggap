@@ -13,6 +13,4 @@ next line
 
 test another line
 
-ok ok ok
-
-oh my god
+this time
