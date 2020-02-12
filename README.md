@@ -13,4 +13,4 @@ next line
 
 test another line
 
-ok
+ok ok ok
