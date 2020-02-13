@@ -6,20 +6,4 @@ This is the project to analyze Finnish wellbeing gaps using historical THL data
 
 This project is collaborating with Prof. Philip Parker from ACU
 
-add new line
-
-next line
-
-
-test another line
-
-this time
-how about this
-
-ohhhh
-
-finall
-adding a line
-
-
-this is a new test under new Git
+#finally it works
