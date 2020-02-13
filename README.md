@@ -22,7 +22,4 @@ finall
 adding a line
 
 
-finnnnnalll linnnne
-
-
-jfkjdsakfjlsdkajfkd
+this is a new test under new Git
